@@ -14,6 +14,9 @@
 
 ---
 
+![thumbnail_1c09e8c5-6524-42b3-ad06-104a95aa7d77 png 2048x2048_q85](https://github.com/user-attachments/assets/3f8305bf-f101-42fd-a21b-c31c84abf25b)
+
+---
 ### ✨ What is Set Origin Tool?
 
 **Set Origin Tool** is a powerful Blender addon that gives you full control over how and where to place the origin (pivot) of your objects. With an intuitive UI and fast pie menu access, you can streamline your modeling, rigging, and layout workflow.
