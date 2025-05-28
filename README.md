@@ -17,7 +17,10 @@
 ![thumbnail_1c09e8c5-6524-42b3-ad06-104a95aa7d77 png 2048x2048_q85](https://github.com/user-attachments/assets/3f8305bf-f101-42fd-a21b-c31c84abf25b)
 
 ---
-https://youtu.be/cF7htjUtivM?si=lWlHji5hDJAmRJUl
+📺 [Watch the video](https://youtu.be/cF7htjUtivM?si=lWlHji5hDJAmRJUl)
+
+
+
 ---
 
 ### ✨ What is Set Origin Tool?
